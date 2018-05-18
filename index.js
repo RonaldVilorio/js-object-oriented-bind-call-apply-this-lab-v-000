@@ -1,3 +1,3 @@
-function justInvoke(a){
-  return Window
+function justInvoke(){
+  return
 }
