@@ -1,3 +1,3 @@
-function justInvoke(){
-  return this.name
+function justInvoke(fn){
+  return fn
 }
